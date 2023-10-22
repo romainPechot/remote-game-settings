@@ -1,0 +1,3 @@
+[submodule "Assets/Package/com.madbox.exercice.remote-game-settings"]
+	path = Assets/Package/com.madbox.exercice.remote-game-settings
+	url = https://github.com/romainPechot/com.madbox.exercice.remote-game-settings.git
