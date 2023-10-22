@@ -1,2 +1,5 @@
 # Ignore "Package" folder as it is its own git repo
-/Package/
+/com.madbox.exercice.remote-game-settings/
+
+# Ignore folder meta file
+*.meta
