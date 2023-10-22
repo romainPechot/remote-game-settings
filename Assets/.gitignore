@@ -1,0 +1,2 @@
+# Ignore "Package" folder as it is its own git repo
+/Package/
